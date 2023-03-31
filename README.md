@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 📚 I’m a current graduate student at the University of Chicago, pursuing a M.S. in Data Science degree
 - 😄 I’m currently studying Machine Learning and Time Series Forecasting
-- 📫 <a href="mailto:example@example.com">Email: tsundui@uchicago.edu</a>
+- 📫 Reach me at: tsundui@uchicago.edu
 - 🎤 Fun fact: I love karaoke 
 
 #### :hammer_and_wrench: Languages and Tools :
