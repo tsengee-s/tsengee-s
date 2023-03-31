@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Tsengee
-
-### A result-orientated aspiring data scientist with a strong foundation in statistical analysis, data modeling and visualization. Proven ability to extract meaningful insights from complex datasets to drive business decisions.
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+## Hi there 👋 I'm Tsengee
+
+### A result-orientated aspiring data scientist with a strong foundation in statistical analysis, data modeling and visualization. Proven ability to extract meaningful insights from complex datasets to drive business decisions.
 
 <!--
 **tsengee-s/tsengee-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
