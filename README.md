@@ -2,11 +2,10 @@
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi there 👋 I'm Tsengee <a href="https://www.linkedin.com/in/tsengee-sundui/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
-</h1>
+<h1 align="center">Hi there 👋 I'm Tsengee ☀️ </h1>
 
 #### A result-orientated aspiring data scientist with a strong foundation in statistical analysis, data modeling and visualization. Proven ability to extract meaningful insights from complex datasets to drive business decisions.
-
+<a href="https://www.linkedin.com/in/tsengee-sundui/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
 <!--
 **tsengee-s/tsengee-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
