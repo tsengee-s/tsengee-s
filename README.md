@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## Hi there 👋 I'm Tsengee
+## <center>Hi there 👋 I'm Tsengee 🌸</center>
 
 ### A result-orientated aspiring data scientist with a strong foundation in statistical analysis, data modeling and visualization. Proven ability to extract meaningful insights from complex datasets to drive business decisions.
 
