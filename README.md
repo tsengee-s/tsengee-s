@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## <center>Hi there 👋 I'm Tsengee 🌸</center>
+<h1 align="center">Hi there 👋 I'm Tsengee 🌸</h1>
 
-### A result-orientated aspiring data scientist with a strong foundation in statistical analysis, data modeling and visualization. Proven ability to extract meaningful insights from complex datasets to drive business decisions.
+#### A result-orientated aspiring data scientist with a strong foundation in statistical analysis, data modeling and visualization. Proven ability to extract meaningful insights from complex datasets to drive business decisions.
 
 <!--
 **tsengee-s/tsengee-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
