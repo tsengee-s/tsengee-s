@@ -12,9 +12,9 @@
 Here are some ideas to get you started:
 -->
 
-- 📚 I’m a current graduate student at the University of Chicago, pursuing a M.S. in Data Science degree
-- 😄 I’m currently studying Machine Learning and Time Series Forecasting
-- 📫 Reach me at: tsundui@uchicago.edu
+- 📚 M.S. in Applied Data Science @UChicago
+- 😄 I’m actively looking for a full-time data analytics/data science position 
+- 📫 You can reach me at: tsundui@uchicago.edu
 - 🎤 Fun fact: I love karaoke 
 
 #### :hammer_and_wrench: Languages and Tools :
